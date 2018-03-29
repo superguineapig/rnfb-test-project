@@ -7,6 +7,7 @@ target 'RNFBTestProject' do
 
   # Pods for RNFBTestProject
   pod 'Firebase/Core'
+  pod 'Firebase/Firestore'
 
   target 'RNFBTestProjectTests' do
     inherit! :search_paths
