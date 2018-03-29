@@ -9,6 +9,8 @@ target 'RNFBTestProject' do
   pod 'Firebase/Core'
   pod 'Firebase/Firestore'
 
+  pod 'RNVectorIcons', :path => '../node_modules/react-native-vector-icons'
+
   target 'RNFBTestProjectTests' do
     inherit! :search_paths
     # Pods for testing
