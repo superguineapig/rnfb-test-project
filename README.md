@@ -1,3 +1,5 @@
+***NOTE: this project is now archived & unmaintained, and here for informational purposes only***
+
 # rnfb-test-project
 repo for testing https://github.com/invertase/react-native-firebase/issues/917
 
